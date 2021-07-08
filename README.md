@@ -17,12 +17,12 @@
 
 # How to use the APP
 
-## Once run this app you can able to see there is Home Page
-## Which will display you all the registered users with there Branch and Year
-## At top right corner you can see there is Register icon ,once click on that you can able to see the Registration Form
-## Fill that form properly
+### Once run this app you can able to see there is Home Page
+### Which will display you all the registered users with there Branch and Year
+### At top right corner you can see there is Register icon ,once click on that you can able to see the Registration Form
+### Fill that form properly
 ## once Register it will redirect to Home page ,there you can see your Registered info added to the List
-## Check your PRN No and enter that into Searh box
-## Now you can able to see your information,If you want to edit something then go ahead and edit
-## If you want to Delete the form simply click on delete and confirm the confirmation box
+### Check your PRN No and enter that into Searh box
+### Now you can able to see your information,If you want to edit something then go ahead and edit
+### If you want to Delete the form simply click on delete and confirm the confirmation box
 
